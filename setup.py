@@ -62,3 +62,5 @@ setuptools.setup(
     description="Simple Client for Earth Engine Uploads with Selenium Support",
     entry_points={"console_scripts": ["geeup=geeup.geeup:main"]},
 )
+
+##
